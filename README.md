@@ -8,6 +8,7 @@ All the codes are in  `run_code` and implementation of models are in `software/m
 In order to use these codes you have to install python 3.* and following modules `ipython`, `numpy`, `matplotlib`, `scipy` and `cython`.
 
 In windows terminal try:
+
 `pip install ipython numpy matplotlib scipy cython`
 
 You need to compile some C functions after downloading whole project. Go to `software/models/utilFunctions_C` and type:

@@ -16,5 +16,6 @@ You need to compile some C functions after downloading whole project. Go to `sof
 
 If you are facing difficulty running C codes, you may need to use the python version of the codes. Notice the occurence of error and change to python alternative.
 
-For listening music you need two extra module,`pyaudio` and `playsound`.Try:\ 
+For listening music you need two extra module,`pyaudio` and `playsound`.Try:
+
 `pip install playsound pyaudio`
